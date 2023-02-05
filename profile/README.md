@@ -17,3 +17,5 @@ If you like my content, you can [Buy Me a Coffee](https://www.buymeacoffee.com/h
 Please, join a discussion!
 
 https://github.com/orgs/chaotic-keystroker/discussions/1
+
+!()[banner.png]
