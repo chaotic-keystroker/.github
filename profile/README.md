@@ -18,4 +18,4 @@ Please, join a discussion!
 
 https://github.com/orgs/chaotic-keystroker/discussions/1
 
-![banner](banner.png)
+![banner](https://github.com/chaotic-keystroker/.github/blob/main/profile/banner.png)
