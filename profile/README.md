@@ -1,6 +1,10 @@
 # Hello :]
 
-Welcome to my kingdom of useless stuff.
+I'm CS & ML student @ CTU - FIT.
+
+Welcome to my kingdom of useless stuff. In this page, you can find all my main videos and projects.
+
+If you like my content, please consider [buying me a coffe](https://www.buymeacoffee.com/hulmakerik). It will help me with doing with what I do :]
 
 | id | repository | video |
 | --- | --- | --- |
