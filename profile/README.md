@@ -8,7 +8,7 @@ If you like my content, you can [Buy Me a Coffee](https://www.buymeacoffee.com/h
 
 | id | repository | video |
 | --- | --- | --- |
-| 0001 | [game of life](https://github.com/chaotic-keystroker/0001-game-of-life) | [YouTube](https://youtu.be/kTZecFsz7dI) |
+| 0001 | [game of life](https://github.com/chaotic-keystroker/0001-game-of-life) | [YouTube](https://youtu.be/nZcqKzBLizo) |
 | 0002 | [double pendulum](https://github.com/chaotic-keystroker/0002-double-pendulum) (in progress) | TODO |
 | 0003 | [optical illusion](https://github.com/chaotic-keystroker/0003-optical-illusion) (in progress) | TODO |
 | 0004 | [bipedal walker](https://github.com/chaotic-keystroker/0004-bipedal-walker) (in progress) | TODO |
