@@ -8,9 +8,10 @@ If you like my content, you can [Buy Me a Coffee](https://www.buymeacoffee.com/h
 
 | id | repository | video |
 | --- | --- | --- |
-| 0001 | [game of life](https://github.com/chaotic-keystroker/0001-game-of-life) | TODO |
-| 0002 | [double pendulum](https://github.com/chaotic-keystroker/0002-double-pendulum) (under construction) | TODO |
-| 0003 | [optical illusion](https://github.com/chaotic-keystroker/0003-optical-illusion) (under construction) | TODO |
+| 0001 | [game of life](https://github.com/chaotic-keystroker/0001-game-of-life) | [YouTube](https://youtu.be/nZcqKzBLizo) |
+| 0002 | [double pendulum](https://github.com/chaotic-keystroker/0002-double-pendulum) (in progress) | TODO |
+| 0003 | [optical illusion](https://github.com/chaotic-keystroker/0003-optical-illusion) (in progress) | TODO |
+| 0004 | [bipedal walker](https://github.com/chaotic-keystroker/0004-bipedal-walker) (in progress) | TODO |
 
 # What should I do next?
 
@@ -18,4 +19,4 @@ Please, join a discussion!
 
 https://github.com/orgs/chaotic-keystroker/discussions/1
 
-![banner](banner.png)
+![banner](https://github.com/chaotic-keystroker/.github/blob/main/profile/banner.png)
